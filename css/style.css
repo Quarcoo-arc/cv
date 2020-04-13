@@ -1,0 +1,19 @@
+p {font-family: sans-serif;}
+body{background-color: skyblue;}
+.nav_bar li{
+  display: inline;
+  padding-right: 30px;
+}
+li a {
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: underline;
+  color: orange;
+}
+.nav_bar{
+  width: 400px;
+  margin: auto;
+  background-color: red;
+}
